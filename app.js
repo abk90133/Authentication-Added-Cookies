@@ -12,6 +12,8 @@ const session = require("express-session");
 const passport = require("passport");
 const passportLocalMongoose = require("passport-local-mongoose");
 
+//Do read the comments here
+
 
 const app = express();
 
